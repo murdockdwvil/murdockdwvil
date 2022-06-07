@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murdockdwvil
-- 👀 I’m interested in html,css and UX design.
-- 🌱 I’m currently learning javascript and front-end.
-- 💞️ I’m looking to collaborate on espeacally in css projects.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning python and machine learning.
+- 💞️ I’m looking to collaborate on espeacally in python projects.
 - 📫 How to reach me: github, linkedin and email
                       Linkedin: www.linkedin.com.br/beatrizlpsilva
                       Email: beatrizlpsilva1234@gmail.com
